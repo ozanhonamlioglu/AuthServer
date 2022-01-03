@@ -9,4 +9,3 @@ C:\Users\ozanh\Desktop\AuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.c
 C:\Users\ozanh\Desktop\AuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
 C:\Users\ozanh\Desktop\AuthServer\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
 C:\Users\ozanh\Desktop\AuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
-C:\Users\ozanh\Desktop\AuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache

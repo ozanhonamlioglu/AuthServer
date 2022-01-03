@@ -4,8 +4,10 @@ C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\ref\AuthSe
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\AuthServer.Service.pdb
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\AuthServer.Core.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\AuthServer.Data.dll
+C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\SharedLibrary.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\AuthServer.Data.pdb
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\SharedLibrary.pdb
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.csproj.AssemblyReference.cache
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.AssemblyInfoInputs.cache
@@ -15,5 +17,3 @@ C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\obj\Debug\net5.0\AuthServer
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\obj\Debug\net5.0\ref\AuthServer.Service.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.pdb
-C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\SharedLibrary.dll
-C:\Users\ozanh\Desktop\AuthServer\AuthServer.Service\bin\Debug\net5.0\SharedLibrary.pdb
