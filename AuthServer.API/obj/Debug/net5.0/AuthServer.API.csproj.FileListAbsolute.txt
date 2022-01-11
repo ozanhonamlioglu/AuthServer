@@ -26,7 +26,6 @@ C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.Iden
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -69,3 +68,6 @@ C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\obj\Debug\net5.0\ref\AuthServer.API.dll
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.pdb
 C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.genruntimeconfig.cache
+C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ozanh\Desktop\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
