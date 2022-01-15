@@ -1,6 +1,7 @@
 ﻿using AuthServer.Core.DTOs;
 using AuthServer.Core.Services;
 using Microsoft.AspNetCore.Mvc;
+using SharedLibrary.Dtos;
 using System.Threading.Tasks;
 
 namespace AuthServer.API.Controllers
@@ -19,7 +20,7 @@ namespace AuthServer.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateToken(LoginDto loginDto)
+        public async Task<ActionResult<Response<TokenDto>>> CreateToken(LoginDto loginDto)
         {
             var result = await _authenticationService.CreateTokenAsync(loginDto);
             return ActionResultInstance(result);
