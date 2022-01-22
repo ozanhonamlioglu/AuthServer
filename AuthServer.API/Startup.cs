@@ -54,10 +54,11 @@ namespace AuthServer.API
 
             services.AddDbContext<AppDbContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("SqlServer"), sqlOptions =>
+                options.UseNpgsql(Configuration.GetConnectionString("PostgreServer"));
+                /* options.UseSqlServer(Configuration.GetConnectionString("SqlServer"), sqlOptions =>
                 {
                     sqlOptions.MigrationsAssembly("AuthServer.Data");
-                });
+                }); */
             });
 
             services.AddIdentity<UserApp, IdentityRole>(options =>
