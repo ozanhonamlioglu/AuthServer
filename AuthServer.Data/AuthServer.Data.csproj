@@ -22,4 +22,8 @@
 		<ProjectReference Include="..\AuthServer.Core\AuthServer.Core.csproj" />
 	</ItemGroup>
 
+	<PropertyGroup Condition="'$(Configuration)' == 'Release'">
+		<DebugType>None</DebugType>
+		<DebugSymbols>false</DebugSymbols>
+	</PropertyGroup>
 </Project>
